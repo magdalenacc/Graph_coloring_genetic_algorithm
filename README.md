@@ -1,2 +1,4 @@
 # Graph_coloring_genetic_algorithm
-Graph coloring with genetic algorithm
+
+Project create in "metaheuristics" subject. 
+Implementation of graph coloring problem with genetic algorithm.
